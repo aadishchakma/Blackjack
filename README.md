@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack Game with JavaScript
+Blackjack Game with JavaScript.
